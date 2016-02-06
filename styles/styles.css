@@ -3,6 +3,7 @@ img {
   height: 100%;
 }
 
+
 /* remove spacing between columns */
 .row.no-gutter [class*='col-'] {
   padding-right:0;
@@ -28,6 +29,7 @@ img {
   z-index: 100
 }
 
-h1 {
+h1, p {
   text-align: center;
+  font-family: 'Lato', sans-serif;
 }
