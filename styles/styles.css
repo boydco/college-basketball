@@ -33,3 +33,10 @@ h1, p {
   text-align: center;
   font-family: 'Lato', sans-serif;
 }
+
+.header-selector {
+  /*background-color: black;
+  border-color: black;*/
+  position: absolute;
+  right: 5%;
+}
